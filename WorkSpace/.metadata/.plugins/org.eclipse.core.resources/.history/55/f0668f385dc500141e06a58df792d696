@@ -1,0 +1,7 @@
+package com.testandrcalculator;
+
+import junit.framework.TestCase;
+
+public class TestApk extends TestCase {
+
+}
